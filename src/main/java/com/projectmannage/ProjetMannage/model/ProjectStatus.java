@@ -1,4 +1,4 @@
-package com.projectmannage.ProjetoSpring.model;
+package com.projectmannage.ProjetMannage.model;
 
 public enum ProjectStatus {
     PEDDING,

@@ -1,4 +1,4 @@
-package com.projectmannage.ProjetoSpring;
+package com.projectmannage.ProjetMannage;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;

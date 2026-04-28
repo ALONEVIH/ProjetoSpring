@@ -1,4 +1,4 @@
-package com.projectmannage.ProjetoSpring.domain.entity;
+package com.projectmannage.ProjetMannage.domain.entity;
 
 import java.util.List;
 import java.util.UUID;

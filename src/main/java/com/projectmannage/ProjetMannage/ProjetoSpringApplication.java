@@ -1,4 +1,4 @@
-package com.projectmannage.ProjetoSpring;
+package com.projectmannage.ProjetMannage;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
