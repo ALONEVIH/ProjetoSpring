@@ -9,8 +9,8 @@ public class SaveProjectDataDTO {
 
     private final String name;
     private final String description;
-    private final LocalDate initial_date;
-    private final LocalDate final_date;
+    private final LocalDate initialDate;
+    private final LocalDate finalDate;
     private final String status;
 
 }

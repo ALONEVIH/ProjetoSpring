@@ -28,10 +28,10 @@ public class Project {
     private String description;
 
     @Column(nullable = false)
-    private LocalDate initial_date;
+    private LocalDate initialDate;
 
     @Column(nullable = false)
-    private LocalDate final_date;
+    private LocalDate finalDate;
 
     @Column(nullable = false)
     private ProjectStatus status;
@@ -39,7 +39,7 @@ public class Project {
     static void main(String[] args) {
         Project project = Project.builder()
                 .description("teste")
-                .final_date(LocalDate.now())
-                .initial_date(LocalDate.now()).build();
+                .finalDate(LocalDate.now())
+                .initialDate(LocalDate.now()).build();
     }
 }
