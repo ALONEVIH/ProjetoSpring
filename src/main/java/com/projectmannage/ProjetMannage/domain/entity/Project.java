@@ -10,8 +10,8 @@ import java.util.UUID;
 @Entity
 @Table(name = "project")
 @Data
-//@Getter
-//Setter
+@Getter
+@Setter
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
